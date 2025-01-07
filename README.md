@@ -39,8 +39,17 @@ This repository focuses on analyzing the exchange rates between the Euro (EUR) a
 - **Seasonality**: Analyze potential recurring patterns in the exchange rates.  
 
 ---
+##  Output
 
-## 🤝 Contributions
+![image](https://github.com/user-attachments/assets/9d09e32c-0584-4522-8822-3a10e0d82688)
+
+![image](https://github.com/user-attachments/assets/337db0d3-45d8-4b8a-94a9-0bacdc9f42b1)
+
+![image](https://github.com/user-attachments/assets/cf4d7938-5f62-4236-a4ab-d2f693af0c8d)
+
+
+---
+# 🤝 Contributions
 
 Contributions, suggestions, and feedback are welcome! Feel free to fork the repository, make changes, and submit a pull request. Alternatively, open an issue for discussions.
 
